@@ -9,7 +9,7 @@
 * HTML
 * CSS
 * Git e Github
-*VS Code
+* VS Code
 
 #### Contato
 
